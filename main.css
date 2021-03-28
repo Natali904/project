@@ -38,3 +38,21 @@
 .navbar__list a:hover{
     box-shadow: 0 0 5px 0 #ffffff;
 }
+.content{
+    width: 1110px;
+    background: #171717;
+    margin: 50px auto;
+    padding: 20px;
+}
+.content p{
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    color: white;
+}
+.content h1 {
+    font-size: 25px;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+}
